@@ -2,17 +2,13 @@
 
 在思考问题时，使用不可变值和函数，函数对一个值进行处理，映射成另一个值
 
-# LAMBDA
+## lambda 入门
 
-##### 问题：
+[lambda的几种写法](https://github.com/chenlushun/java8/blob/master/lambda.md)
 
-    
+## stream
 
-# stream
-
-### map
-
-##### 问题
+有一些常见的问题
 
     1、统计 list 集合中符合某种条件的对象？例如， 统计账单中的信用卡账单？
     2、如何给集合进行分组？例如，将账单分为网贷账单和信用卡账单？
