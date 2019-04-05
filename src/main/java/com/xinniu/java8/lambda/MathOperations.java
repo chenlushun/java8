@@ -4,23 +4,14 @@
  */
 package com.xinniu.java8.lambda;
 
-import org.junit.Test;
-
 /**
- * 信用管家
+ * 数学运算
  *
  * @author <a href="mailto:chenlushun@51nbapi.com">陈录顺</a>
- * @since 4.5.8
  */
-public class FirstLambda {
+@FunctionalInterface
+public interface MathOperations {
 
-    @Test
-    public void test() {
+    Integer apply(Integer x, Integer y);
 
-        // 8之前的写法
-
-
-
-
-    }
 }
