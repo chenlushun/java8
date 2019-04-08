@@ -21,3 +21,7 @@
 - 数据分组
 - 字符串
 - 定制收集器
+
+## Flux 简介
+
+https://www.jianshu.com/p/a65fbd627a3e
